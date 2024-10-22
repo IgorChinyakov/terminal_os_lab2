@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/chinyakov/CLionProjects/OS_2_lab_terminal/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/OS_2_lab_terminal.dir/main.cpp.o -c /home/chinyakov/CLionProjects/OS_2_lab_terminal/main.cpp",
+  "file": "/home/chinyakov/CLionProjects/OS_2_lab_terminal/main.cpp",
+  "output": "CMakeFiles/OS_2_lab_terminal.dir/main.cpp.o"
+}
+]

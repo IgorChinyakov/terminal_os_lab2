@@ -1,0 +1,3 @@
+/home/chinyakov/CLionProjects/OS_2_lab_terminal/cmake-build-debug/CMakeFiles/OS_2_lab_terminal.dir
+/home/chinyakov/CLionProjects/OS_2_lab_terminal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chinyakov/CLionProjects/OS_2_lab_terminal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

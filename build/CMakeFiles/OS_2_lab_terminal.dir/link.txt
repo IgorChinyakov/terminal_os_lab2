@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/OS_2_lab_terminal.dir/main.cpp.o -o OS_2_lab_terminal 
